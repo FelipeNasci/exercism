@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CryptoSquareTest" tests="7" skipped="6" failures="0" errors="0" timestamp="2025-04-18T20:13:10" hostname="BR-SP130224.local" time="0.014">
+  <properties/>
+  <testcase name="empty plaintext results in empty ciphertext" classname="CryptoSquareTest" time="0.013"/>
+  <testcase name="fifty four character plaintext results in seven chunks with trailing spaces" classname="CryptoSquareTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="eight character plaintext results in three chunks with a trailing space" classname="CryptoSquareTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="punctuation is removed during encryption" classname="CryptoSquareTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="letters are lower cased during encryption" classname="CryptoSquareTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="nine character plaintext results in three chunks of three characters" classname="CryptoSquareTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="spaces are removed during encryption" classname="CryptoSquareTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
